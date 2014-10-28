@@ -37,7 +37,7 @@ exports.BattleFormatsData = {
 	},
 	butterfree: {
 		randomBattleMoves: ["psychic","megadrain","sleeppowder","stunspore"],
-		tier: "UU"
+		tier: "OU"
 	},
 	weedle: {
 		tier: "LC"
