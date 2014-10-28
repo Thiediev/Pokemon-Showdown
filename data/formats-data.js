@@ -1101,7 +1101,7 @@ exports.BattleFormatsData = {
 	smoochum: {
 		randomBattleMoves: ["icebeam","psychic","hiddenpowerfighting","trick","shadowball","grassknot"],
 		randomDoubleBattleMoves: ["icebeam","psychic","hiddenpowerfighting","trick","shadowball","grassknot","fakeout","protect"],
-		tier: "LC"
+		tier: "OU"
 	},
 	jynx: {
 		randomBattleMoves: ["icebeam","psychic","focusblast","trick","nastyplot","lovelykiss","substitute","psyshock"],
@@ -1629,7 +1629,7 @@ exports.BattleFormatsData = {
 	azumarill: {
 		randomBattleMoves: ["waterfall","aquajet","playrough","superpower","bellydrum","knockoff"],
 		randomDoubleBattleMoves: ["waterfall","aquajet","playrough","superpower","bellydrum","knockoff","protect"],
-		tier: "OU"
+		tier: "NFE"
 	},
 	bonsly: {
 		randomBattleMoves: ["rockslide","brickbreak","doubleedge","toxic","stealthrock","suckerpunch","explosion"],
