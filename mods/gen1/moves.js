@@ -4,8 +4,7 @@
  */
 exports.BattleMovedex = {
 	acid: {
-		inherit: true,
-		target: "normal"
+		inherit: false,
 	},
 	amnesia: {
 		inherit: true,
