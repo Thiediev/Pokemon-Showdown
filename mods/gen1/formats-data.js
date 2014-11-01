@@ -1,73 +1,73 @@
 exports.BattleFormatsData = {
 	bulbasaur: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	ivysaur: {
-		tier: "UU"
+		tier: "Uber"
 	},
 	venusaur: {
 		randomBattleMoves: ["razorleaf","sleeppowder","swordsdance","bodyslam"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	charmander: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	charmeleon: {
-		tier: "UU"
+		tier: "Uber"
 	},
 	charizard: {
 		randomBattleMoves: ["fireblast","earthquake","swordsdance","bodyslam","hyperbeam"],
-		tier: "UU"
+		tier: "OU"
 	},
 	squirtle: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	wartortle: {
-		tier: "UU"
+		tier: "Uber"
 	},
 	blastoise: {
 		randomBattleMoves: ["surf","blizzard","bodyslam","mimic"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	caterpie: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	metapod: {
-		tier: "UU"
+		tier: "Uber"
 	},
 	butterfree: {
 		randomBattleMoves: ["psychic","megadrain","sleeppowder","stunspore"],
 		tier: "OU"
 	},
 	weedle: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	kakuna: {
-		tier: "UU"
+		tier: "Uber"
 	},
 	beedrill: {
 		randomBattleMoves: ["twineedle","hyperbeam","swordsdance","agility"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	pidgey: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	pidgeotto: {
-		tier: "UU"
+		tier: "Uber"
 	},
 	pidgeot: {
 		randomBattleMoves: ["doubleedge","hyperbeam","agility","mimic","mirrormove"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	rattata: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	raticate: {
 		randomBattleMoves: ["superfang","hyperbeam","bodyslam","blizzard","bubblebeam"],
-		tier: "UU"
+		tier: "OU"
 	},
 	spearow: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	fearow: {
 		randomBattleMoves: ["drillpeck","doubleedge","hyperbeam","mirrormove"],
