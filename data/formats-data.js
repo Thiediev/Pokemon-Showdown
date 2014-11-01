@@ -1629,7 +1629,7 @@ exports.BattleFormatsData = {
 	azumarill: {
 		randomBattleMoves: ["waterfall","aquajet","playrough","superpower","bellydrum","knockoff"],
 		randomDoubleBattleMoves: ["waterfall","aquajet","playrough","superpower","bellydrum","knockoff","protect"],
-		tier: "NFE"
+		tier: "Uber"
 	},
 	bonsly: {
 		randomBattleMoves: ["rockslide","brickbreak","doubleedge","toxic","stealthrock","suckerpunch","explosion"],
