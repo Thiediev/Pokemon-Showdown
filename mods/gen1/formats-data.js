@@ -74,14 +74,14 @@ exports.BattleFormatsData = {
 		eventPokemon: [
 			{"generation":1,"level":20,"moves":["growl","leer","furyattack","payday"]}
 		],
-		tier: "UU"
+		tier: "OU"
 	},
 	ekans: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	arbok: {
 		randomBattleMoves: ["earthquake","wrap","glare","hyperbeam"],
-		tier: "UU"
+		tier: "OU"
 	},
 	pikachu: {
 		eventPokemon: [
@@ -89,248 +89,248 @@ exports.BattleFormatsData = {
 			{"generation":1,"level":5,"moves":["fly"]},
 			{"generation":1,"level":5,"moves":["thundershock","growl","surf"]}
 		],
-		tier: "LC"
+		tier: "Uber"
 	},
 	raichu: {
 		randomBattleMoves: ["thunderbolt","thunderwave","surf","bodyslam"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	sandshrew: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	sandslash: {
 		randomBattleMoves: ["earthquake","swordsdance","hyperbeam","bodyslam","rockslide","substitute"],
-		tier: "UU"
+		tier: "OU"
 	},
 	nidoranf: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	nidorina: {
-		tier: "UU"
+		tier: "Uber"
 	},
 	nidoqueen: {
-		tier: "UU"
+		tier: "OU"
 	},
 	nidoranm: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	nidorino: {
 		randomBattleMoves: ["earthquake","blizzard","thunder","thunderbolt","bodyslam"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	nidoking: {
 		randomBattleMoves: ["earthquake","blizzard","thunder","thunderbolt","bodyslam"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	clefairy: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	clefable: {
 		randomBattleMoves: ["blizzard","bodyslam","hyperbeam","thunderwave","thunderbolt","counter","sing","thunder"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	vulpix: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	ninetales: {
 		randomBattleMoves: ["fireblast","bodyslam","confuseray","firespin"],
-		tier: "UU"
+		tier: "OU"
 	},
 	jigglypuff: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	wigglytuff: {
-		tier: "UU"
+		tier: "Uber"
 	},
 	zubat: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	golbat: {
 		randomBattleMoves: ["screech","confuseray","doubleedge","hyperbeam","megadrain"],
-		tier: "UU"
+		tier: "OU"
 	},
 	oddish: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	gloom: {
-		tier: "UU"
+		tier: "Uber"
 	},
 	vileplume: {
 		randomBattleMoves: ["sleeppowder","swordsdance","bodyslam","megadrain"],
-		tier: "UU"
+		tier: "OU"
 	},
 	paras: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	parasect: {
 		randomBattleMoves: ["spore","stunspore","swordsdance","bodyslam","slash","megadrain"],
-		tier: "UU"
+		tier: "OU"
 	},
 	venonat: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	venomoth: {
 		randomBattleMoves: ["psychic","megadrain","sleeppowder","stunspore"],
-		tier: "UU"
+		tier: "OU"
 	},
 	diglett: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	dugtrio: {
 		randomBattleMoves: ["earthquake","slash","sandattack","mimic","substitute"],
-		tier: "UU"
+		tier: "OU"
 	},
 	meowth: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	persian: {
 		randomBattleMoves: ["slash","bubblebeam","hyperbeam","bodyslam","screech","thunderbolt"],
-		tier: "OU"
+		tier: "Uber"
 	},
 	psyduck: {
 		eventPokemon: [
 			{"generation":1,"level":15,"moves":["scratch","amnesia"]}
 		],
-		tier: "LC"
+		tier: "Uber"
 	},
 	golduck: {
 		randomBattleMoves: ["amnesia","blizzard","icebeam","surf","bodyslam","rest"],
-		tier: "UU"
+		tier: "OU"
 	},
 	mankey: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	primeape: {
 		randomBattleMoves: ["submission","rockslide","bodyslam","focusenergy","hyperbeam"],
-		tier: "UU"
+		tier: "OU"
 	},
 	growlithe: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	arcanine: {
 		randomBattleMoves: ["fireblast","bodyslam","hyperbeam","mimic","reflect"],
-		tier: "UU"
+		tier: "OU"
 	},
 	poliwag: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	poliwhirl: {
-		tier: "UU"
+		tier: "Uber"
 	},
 	poliwrath: {
 		randomBattleMoves: ["blizzard","hypnosis","amnesia","surf","submission"],
-		tier: "UU"
+		tier: "OU"
 	},
 	politoed: {
-		tier: "UU"
+		tier: "Uber"
 	},
 	abra: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	kadabra: {
-		tier: "UU"
+		tier: "Uber"
 	},
 	alakazam: {
 		randomBattleMoves: ["psychic","recover","thunderwave","reflect","seismictoss"],
 		tier: "OU"
 	},
 	machop: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	machoke: {
-		tier: "UU"
+		tier: "Uber"
 	},
 	machamp: {
 		randomBattleMoves: ["bodyslam","earthquake","hyperbeam","submission"],
-		tier: "UU"
+		tier: "OU"
 	},
 	bellsprout: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	weepinbell: {
-		tier: "UU"
+		tier: "Uber"
 	},
 	victreebel: {
 		randomBattleMoves: ["razorleaf","swordsdance","sleeppowder","bodyslam","hyperbeam","stunspore","wrap"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	tentacool: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	tentacruel: {
 		randomBattleMoves: ["swordsdance","wrap","blizzard","hyperbeam","hydropump","surf"],
-		tier: "UU"
+		tier: "OU"
 	},
 	geodude: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	graveler: {
-		tier: "UU"
+		tier: "Uber"
 	},
 	golem: {
 		randomBattleMoves: ["bodyslam","earthquake","rockslide","explosion"],
 		tier: "OU"
 	},
 	ponyta: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	rapidash: {
 		randomBattleMoves: ["fireblast","agility","bodyslam","firespin"],
 		eventPokemon: [
 			{"generation":1,"level":40,"moves":["ember","firespin","stomp","payday"]}
 		],
-		tier: "UU"
+		tier: "Uber"
 	},
 	slowpoke: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	slowbro: {
 		tier: "OU"
 	},
 	magnemite: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	magneton: {
 		randomBattleMoves: ["thunder","thunderbolt","thunderwave","mimic","doubleedge","hyperbeam"],
-		tier: "UU"
+		tier: "OU"
 	},
 	farfetchd: {
 		randomBattleMoves: ["sandattack","substitute","slash","swordsdance","bodyslam","toxic"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	doduo: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	dodrio: {
 		randomBattleMoves: ["drillpeck","bodyslam","hyperbeam","mimic"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	seel: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	dewgong: {
 		randomBattleMoves: ["surf","blizzard","bodyslam","mimic"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	grimer: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	muk: {
 		randomBattleMoves: ["sludge","bodyslam","megadrain","screech","explosion"],
-		tier: "UU"
+		tier: "OU"
 	},
 	shellder: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	cloyster: {
 		randomBattleMoves: ["clamp","blizzard","hyperbeam","explosion"],
 		tier: "OU"
 	},
 	gastly: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	haunter: {
-		tier: "UU"
+		tier: "Uber"
 	},
 	gengar: {
 		randomBattleMoves: ["hypnosis","explosion","thunderbolt","megadrain"],
@@ -338,68 +338,68 @@ exports.BattleFormatsData = {
 	},
 	onix: {
 		randomBattleMoves: ["earthquake","explosion","rockslide","bind"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	drowzee: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	hypno: {
 		randomBattleMoves: ["psychic","thunderwave","hypnosis","counter","rest"],
-		tier: "UU"
+		tier: "OU"
 	},
 	krabby: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	kingler: {
 		randomBattleMoves: ["bodyslam","hyperbeam","crabhammer","surf","swordsdance"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	voltorb: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	electrode: {
 		randomBattleMoves: ["thunder","thunderbolt","thunderwave","explosion","screech"],
-		tier: "UU"
+		tier: "OU"
 	},
 	exeggcute: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	exeggutor: {
 		randomBattleMoves: ["sleeppowder","psychic","explosion","doubleedge","megadrain","stunspore"],
 		tier: "OU"
 	},
 	cubone: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	marowak: {
 		randomBattleMoves: ["earthquake","blizzard","bodyslam","seismictoss"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	hitmonlee: {
 		randomBattleMoves: ["bodyslam","counter","highjumpkick","mimic","seismictoss","substitute"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	hitmonchan: {
 		randomBattleMoves: ["bodyslam","submission","seismictoss","counter"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	lickitung: {
 		randomBattleMoves: ["swordsdance","earthquake","hyperbeam","bodyslam"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	koffing: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	weezing: {
 		randomBattleMoves: ["sludge","explosion","thunder","thunderbolt","fireblast"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	rhyhorn: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	rhydon: {
 		randomBattleMoves: ["earthquake","rockslide","substitute","bodyslam"],
-		tier: "OU"
+		tier: "Uber"
 	},
 	chansey: {
 		randomBattleMoves: ["icebeam","softboiled","counter","thunderwave","thunderbolt"],
@@ -407,28 +407,28 @@ exports.BattleFormatsData = {
 	},
 	tangela: {
 		randomBattleMoves: ["bind","hyperbeam","sleeppowder","stunspore","megadrain","growth","swordsdance","bodyslam"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	kangaskhan: {
 		randomBattleMoves: ["bodyslam","hyperbeam","counter","earthquake","surf"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	horsea: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	seadra: {
 		randomBattleMoves: ["hydropump","surf","blizzard","smokescreen","mimic"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	goldeen: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	seaking: {
 		randomBattleMoves: ["surf","blizzard","hyperbeam","doubleedge"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	staryu: {
-		tier: "UU"
+		tier: "Uber"
 	},
 	starmie: {
 		randomBattleMoves: ["blizzard","thunderbolt","recover","thunderwave"],
@@ -436,11 +436,11 @@ exports.BattleFormatsData = {
 	},
 	mrmime: {
 		randomBattleMoves: ["psychic","thunderwave","thunderbolt","seismictoss"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	scyther: {
 		randomBattleMoves: ["slash","swordsdance","agility","hyperbeam"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	jynx: {
 		randomBattleMoves: ["lovelykiss","blizzard","psychic","mimic"],
@@ -448,15 +448,15 @@ exports.BattleFormatsData = {
 	},
 	electabuzz: {
 		randomBattleMoves: ["thunderbolt","thunderwave","psychic","seismictoss"],
-		tier: "UU"
+		tier: "OU"
 	},
 	magmar: {
 		randomBattleMoves: ["fireblast","flamethrower","bodyslam","confuseray","hyperbeam","mimic"],
-		tier: "UU"
+		tier: "OU"
 	},
 	pinsir: {
 		randomBattleMoves: ["swordsdance","hyperbeam","bodyslam","submission"],
-		tier: "UU"
+		tier: "OU"
 	},
 	tauros: {
 		randomBattleMoves: ["bodyslam","hyperbeam","earthquake","blizzard"],
@@ -466,56 +466,56 @@ exports.BattleFormatsData = {
 		eventPokemon: [
 			{"generation":1,"level":5,"moves":["dragonrage"]}
 		],
-		tier: "LC"
+		tier: "Uber"
 	},
 	gyarados: {
 		randomBattleMoves: ["blizzard","surf","thunderbolt","bodyslam","hyperbeam"],
-		tier: "UU"
+		tier: "OU"
 	},
 	lapras: {
 		randomBattleMoves: ["blizzard","icebeam","rest","thunderbolt","bodyslam","confuseray"],
-		tier: "OU"
+		tier: "Uber"
 	},
 	ditto: {
 		randomBattleMoves: ["transform"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	eevee: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	vaporeon: {
 		randomBattleMoves: ["hydropump","surf","blizzard","bodyslam","rest","mimic"],
-		tier: "UU"
+		tier: "OU"
 	},
 	jolteon: {
 		randomBattleMoves: ["thunderbolt","thunderwave","pinmissile","bodyslam","doublekick","sandattack"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	flareon: {
 		randomBattleMoves: ["fireblast","bodyslam","hyperbeam","focusenergy","quickattack"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	porygon: {
 		randomBattleMoves: ["thunderwave","thunderbolt","blizzard","icebeam","doubleedge","hyperbeam","sharpen","psychic","recover","agility"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	omanyte: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	omastar: {
 		randomBattleMoves: ["hydropump","surf","blizzard","mimic","rest","seismictoss"],
-		tier: "UU"
+		tier: "OU"
 	},
 	kabuto: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	kabutops: {
 		randomBattleMoves: ["swordsdance","bodyslam","surf","hyperbeam"],
-		tier: "UU"
+		tier: "Uber"
 	},
 	aerodactyl: {
 		randomBattleMoves: ["skyattack","reflect","doubleedge","hyperbeam"],
-		tier: "UU"
+		tier: "OU"
 	},
 	snorlax: {
 		randomBattleMoves: ["amnesia","blizzard","icebeam","bodyslam","thunderbolt","rest","selfdestruct","hyperbeam","surf","earthquake"],
@@ -523,7 +523,7 @@ exports.BattleFormatsData = {
 	},
 	articuno: {
 		randomBattleMoves: ["blizzard","rest","reflect","icebeam","mimic"],
-		tier: "UU"
+		tier: "OU"
 	},
 	zapdos: {
 		randomBattleMoves: ["thunderbolt","drillpeck","thunderwave","agility"],
@@ -531,13 +531,13 @@ exports.BattleFormatsData = {
 	},
 	moltres: {
 		randomBattleMoves: ["agility","fireblast","firespin","hyperbeam"],
-		tier: "UU"
+		tier: "OU"
 	},
 	dratini: {
-		tier: "LC"
+		tier: "Uber"
 	},
 	dragonair: {
-		tier: "UU"
+		tier: "Uber"
 	},
 	dragonite: {
 		randomBattleMoves: ["agility","wrap","hyperbeam","blizzard","surf"],
