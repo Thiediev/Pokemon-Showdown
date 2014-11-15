@@ -776,15 +776,6 @@ exports.Formats = [
 	///////////////////////////////////////////////////////////////////
 
 	{
-		name: "[Gen 4] OU",
-		section: "Past Generations",
-		column: 3,
-
-		mod: 'gen4',
-		ruleset: ['Pokemon', 'Standard'],
-		banlist: ['Uber']
-	},
-	{
 		name: "[Gen 4] Ubers",
 		section: "Past Generations",
 
