@@ -438,8 +438,7 @@ exports.BattleMovedex = {
 	},
 	karatechop: {
 		inherit: true,
-		type: "Normal"
-	},
+		},
 	leechseed: {
 		inherit: true,
 		onHit: function (target, source, move) {
@@ -876,8 +875,7 @@ exports.BattleMovedex = {
 	},
 	triattack: {
 		inherit: true,
-		secondary: false
-	},
+			},
 	whirlwind: {
 		inherit: true,
 		accuracy: 85,
