@@ -1108,6 +1108,6 @@ exports.BattleScripts = {
 	}
 	},
 	{
-	init: function () {this.modData('Learnsets', 'gyarados').learnset.skyattack = ['3L100'];
+	init: function () {this.modData('Learnsets', 'gyarados').learnset.skyattack = ['5L100'];
 	}
 };
