@@ -1,3 +1,5 @@
 exports.BattleLearnsets = {
-gyarados:{learnset:{skyattack:["3T","4T","5T"]}}
+  init: function () {
+		this.modData('Learnsets', 'gyarados').learnset.skyattack = ['3T']
 }
+};
