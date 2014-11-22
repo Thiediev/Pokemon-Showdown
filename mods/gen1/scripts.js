@@ -10,8 +10,7 @@ exports.BattleScripts = {
 			this.add('debug', activity);
 		}
 	},
-	init: function () {this.modData('Learnsets', 'gyarados').learnset.skyattack = ['5L100'];
-	}
+	this.modData('Learnsets', 'gyarados').learnset.skyattack = ['5L100'];
 	// getStat callback for gen 1 stat dealing
 	getStatCallback: function (stat, statName, pokemon) {
 		// Hard coded Reflect and Light Screen boosts
