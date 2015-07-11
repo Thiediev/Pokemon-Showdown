@@ -39,7 +39,8 @@ exports.BattleMovedex = {
 		basePower: 200,
 		selfdestruct: true,
 		multihit: false,
-		category: "Special"
+		category: "Special",
+		accuracy: 100
 	},
 	barrier: {
 		inherit: true,
@@ -306,9 +307,10 @@ exports.BattleMovedex = {
 	headbutt: {
 		inherit: true,
 		basePower: 100,
-		type: "Psychic"
+		type: "Psychic",
+		category: "Special"
 	},
-	hijumpkick: {
+	highjumpkick: {
 		inherit: true,
 		basePower: 150,
 		accuracy: 85,
@@ -555,7 +557,7 @@ exports.BattleMovedex = {
 		inherit: true,
 		type: "Bug",
 		basePower: 95,
-		onTry: false
+		onTry: true
 	},
 	recover: {
 		inherit: true,
