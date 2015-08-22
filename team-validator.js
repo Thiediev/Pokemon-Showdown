@@ -368,7 +368,7 @@ Validator = (function () {
 		setHas[toId(set.ability)] = true;
 		if (banlistTable['illegal']) {
 			// Don't check abilities for metagames with All Abilities
-			if (tools.gen <= 2) {
+			if (tools.gen = 2) {
 				set.ability = 'None';
 			} else if (!banlistTable['ignoreillegalabilities']) {
 				if (!ability.name) {
@@ -499,7 +499,7 @@ Validator = (function () {
 			if (!lsetData.sources && lsetData.sourcesBefore <= 3 && tools.getAbility(set.ability).gen === 4 && !template.prevo && tools.gen <= 5) {
 				problems.push(name + " has a gen 4 ability and isn't evolved - it can't use anything from gen 3.");
 			}
-			if (!lsetData.sources && lsetData.sourcesBefore >= 3 && (isHidden || tools.gen <= 5) && template.gen <= lsetData.sourcesBefore) {
+			if (!lsetData.sources && lsetData.sourcesBefore > 3 && (isHidden || tools.gen <= 5) && template.gen <= lsetData.sourcesBefore) {
 				var oldAbilities = tools.mod('gen' + lsetData.sourcesBefore).getTemplate(set.species).abilities;
 				if (ability.name !== oldAbilities['0'] && ability.name !== oldAbilities['1'] && !oldAbilities['H']) {
 					problems.push(name + " has moves incompatible with its ability.");
