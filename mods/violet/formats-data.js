@@ -139,4 +139,8 @@ exports.BattleFormatsData = {
 		inherit: true,
 		tier: "OU"
 	}
+	starmie: {
+		inherit: true,
+		tier: "OU"
+	}
 };
