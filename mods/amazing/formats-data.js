@@ -73,7 +73,7 @@ exports.BattleFormatsData = {
 	},
 	murkrow: {
 		inherit: true,
-		tier: "OU"
+		tier: "UU"
 	},
 	girafarig: {
 		inherit: true,
@@ -120,6 +120,10 @@ exports.BattleFormatsData = {
 		tier: "OU"
 	},
 	shiftry: {
+		inherit: true,
+		tier: "OU"
+	},
+	surskit: {
 		inherit: true,
 		tier: "OU"
 	},
