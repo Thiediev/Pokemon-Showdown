@@ -120,13 +120,14 @@ exports.BattleMovedex = {
 	},
 	torment: {
 		inherit: true,
+		sideCondition: 'torment',
 		effect: {
 			duration: 5,
 			onStart: function (side) {
-				this.add('-start', side, 'Torment');
+				this.add('-sidestart', side, 'Torment');
 			},
 			onEnd: function (side) {
-				this.add('-end', side, 'Torment');
+				this.add('-sideend', side, 'Torment');
 			},
 			onDisableMove: function (side) {
 				if (side.lastMove !== 'struggle') side.disableMove(side.lastMove);
