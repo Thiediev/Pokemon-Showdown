@@ -1,7 +1,7 @@
 exports.BattleFormatsData = {
 	nidoking: {
 		inherit: true,
-		tier: "OU"
+		tier: "OU"asdfasdfasfd
 	},
 	crobat: {
 		inherit: true,
